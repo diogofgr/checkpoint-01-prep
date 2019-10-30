@@ -1,5 +1,7 @@
 # Checkpoint 1 prep
 
+**-- Start by cloning the repo! --**
+
 Do the following exercises to prepare for checkpoint 1. **If you finish all of them the checkpoint will be a breeze!**
 
 The first exercises have test files that you can run with `mocha`.
@@ -17,12 +19,14 @@ Create a function `shortestAndLongest()` that takes an array of strings and retu
 
 ## 3. `gridWithBootstrap.html`
 Create a responsive grid with 24 images. The layouts should be the following:
+![desktop tablet and mobile layouts](layout.jpg)
+
 ```
 Desktop: 4x6
 Tablet: 2x12
 Smartphone: 1x24
-
 ```
+
 You can use a placeholder for the images like this one: https://via.placeholder.com/150
 .
 
