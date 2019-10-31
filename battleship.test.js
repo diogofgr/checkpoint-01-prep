@@ -12,8 +12,8 @@ describe('Generate Battleship board', () => {
     });
     
     it('should return grid items in the correct position', () => {
-        assert.strictEqual(battleship()[13], 'D-2');
-        assert.strictEqual(battleship()[27], 'J-3');
-        assert.strictEqual(battleship()[91], 'A-10');
+        assert.strictEqual(battleship()[13], 'B-4');
+        assert.strictEqual(battleship()[27], 'C-8');
+        assert.strictEqual(battleship()[91], 'J-2');
     });
 })
