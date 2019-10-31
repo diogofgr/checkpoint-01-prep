@@ -3,7 +3,7 @@ const shortestAndLongest = require('./shortestAndLongest.js');
 
 describe('Get the shortest and the longest strings', () => {
     it('should be a function', () => {
-        assert.strictEqual(typeof shortestAndLongest([]), 'function');
+        assert.strictEqual(typeof shortestAndLongest, 'function');
     });
     
     it('should return an array of strings', () => {
